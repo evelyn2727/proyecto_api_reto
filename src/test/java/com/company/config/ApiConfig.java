@@ -33,6 +33,7 @@ public class ApiConfig {
                 .expectResponseTime(lessThan(3000L))
                 .build();
 */
+     //ejemplo 04092022
         RestAssured.requestSpecification = requestSpecification;
         RestAssured.responseSpecification = responseSpecification;
     }

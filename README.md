@@ -6,3 +6,5 @@
 
 #se adjunta colección postman:importar el archivo.
 #para que se ejecutan algunos request en postman es necesario que se actualice el valor del token.
+
+ejemplo  04092022222sdsd
